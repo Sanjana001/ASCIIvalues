@@ -1,3 +1,3 @@
 # ASCIIvalues
 
-A platform which enable the coders/programmers to find any ascii value or character
+A platform which can help coders/programmers to find any ascii value or character easily
