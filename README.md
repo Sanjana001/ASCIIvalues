@@ -1,3 +1,3 @@
 # ASCIIvalues
 
-A small app which can help the programmers to find the values of ASCII characters or ASCII characters through their value
+A platform which enable the coders/programmers to find any ascii value or character
